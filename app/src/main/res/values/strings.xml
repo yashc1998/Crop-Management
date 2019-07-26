@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crops</string>
+
+    <string-array name="years">
+        <item>2013-14</item>
+        <item>2014-15</item>
+        <item>2015-16</item>
+        <item>2016-17</item>
+        <item>2017-18</item>
+    </string-array>
+</resources>
